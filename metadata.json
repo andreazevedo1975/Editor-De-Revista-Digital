@@ -1,0 +1,5 @@
+{
+  "name": "Copy of Digital Magazine Editor",
+  "description": "An application to analyze a magazine PDF using Gemini 2.5 Pro, extract its content and layout, and structure the result in a JSON format for digital publishing and monetization.",
+  "requestFramePermissions": []
+}
